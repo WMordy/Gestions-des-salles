@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/Gestionnaire des Salles/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx11"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.40"/>
+	<classpathentry kind="lib" path="/Gestionnaire des Salles/lib/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
